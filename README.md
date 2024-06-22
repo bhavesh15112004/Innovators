@@ -18,7 +18,9 @@ Here is a list of files in the repository along with their descriptions:
 - tensorflow </br>
 ## Instructions
 ### 1. Clone the repository
-bash git clone
+```bash
+git clone https://github.com/bhavesh15112004/Innovators.git
+```
 ### 2. Install required packages: Following command can be used:
 ```bash
 pip install -r requirements.txt

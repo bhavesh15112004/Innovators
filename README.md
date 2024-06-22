@@ -28,4 +28,4 @@ Run the notebook to generate predictions for evaluation.csv and data_1997_1998.c
 The predicted SST for evaluation.csv will be available in evaluation_with_predictions.csv </br>
 The predicted SST for data_1997_1998.csv will be available in data_1997_1998_with_predictions.csv </br> 
 ## Notes
-Ensure that the train.csv, evaluation.csv and data_1997_1998.csv files are in the same directory as the Jupyter Notebooks. 
+Ensure that train.csv, evaluation.csv and data_1997_1998.csv files are in the same directory as the Jupyter Notebook. 
